@@ -1,0 +1,11 @@
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\bin\Debug\AdisyonHesaplama.exe.config
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\bin\Debug\AdisyonHesaplama.exe
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\bin\Debug\AdisyonHesaplama.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.Properties.Resources.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.exe
+C:\Users\yavuz\OneDrive\Masaüstü\Veysel's files\c#\AdisyonHesaplama\AdisyonHesaplama\obj\Debug\AdisyonHesaplama.pdb
